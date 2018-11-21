@@ -4,6 +4,11 @@
 		<title> Cadastro de clientes </titles>
 			<body>
 				<h1> Bem Vindo no Site </h1>
+				<div id="container">
+				 <form>
+				   <input type="text" id="nome"/>
+				 </form>
+				</div>
 			</body>
 		</head>
 	</html>
